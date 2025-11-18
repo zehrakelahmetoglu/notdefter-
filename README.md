@@ -59,7 +59,6 @@ Uygulamayı çalıştırın (F5).
 
 “Biçim” menüsünden yazı tipi ve renkle ilgili ayarları değiştirin.
 
-“Hakkında” menüsünden uygulama bilgilerini görüntüleyin.
 
 👩‍💻 Geliştirici
 
